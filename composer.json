@@ -1,0 +1,22 @@
+{
+    "name": "marcosneto/activerecord",
+    "description": "ActiveRecord",
+    "autoload": {
+        "psr-4": {
+            "app\\": "app"
+        }
+    },
+    "authors": [
+        {
+            "name": "Marcos Pereira",
+            "email": "marcossenior293@gmail.com"
+        }
+    ],
+    "require": {
+        "ext-pdo": "*"
+    },
+
+    "files": [
+        "app/helpers/helpers.php"
+    ]
+}
